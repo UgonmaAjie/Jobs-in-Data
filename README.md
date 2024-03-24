@@ -22,4 +22,4 @@ This project is to help analyze and derive insights to answer some questions on 
 - Highest paid level in data is the Experienced level with Entry level as the least
 - Employment trnd in data jobs from 2020 showing a high increase from 2022 - 2023
 - Highest paid data job is Machine learning and AI while Data Quality and Opeartions is the least.
-![](jobs.JPG)
+
